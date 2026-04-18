@@ -1,0 +1,15 @@
+.bVr{
+    border: 2px solid black;
+    margin: 2px;
+}
+.picks{
+    border: 2px solid black;
+    margin: 2px;
+}
+.head{
+    font-size: 20px;
+}
+table,th,td{
+    border: 1px solid black;
+}
+
