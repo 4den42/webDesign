@@ -1,5 +1,0 @@
-Database: db62
-
-Username: user62
-
-Password: 62hoax
